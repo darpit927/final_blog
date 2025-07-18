@@ -55,7 +55,7 @@ main {
 }
 
 main {
-  background-image: url('https://storageblopapp2025.blob.core.windows.net/blogapp/styles.css'); /* Adjust the path accordingly */
+  background-image: url('https://storageblopapp2025.blob.core.windows.net/blogapp/background.jpg'); /* Adjust the path accordingly */
   background-size: cover;       /* Make image cover entire section */
   background-repeat: no-repeat; /* Prevent tiling */
   background-position: center;  /* Center the image */
