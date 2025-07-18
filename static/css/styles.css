@@ -54,6 +54,13 @@ main {
   padding: 20px;
 }
 
+main {
+  background-image: url('/static/images/background.jpg'); /* Adjust the path accordingly */
+  background-size: cover;       /* Make image cover entire section */
+  background-repeat: no-repeat; /* Prevent tiling */
+  background-position: center;  /* Center the image */
+}
+
 /* Flash messages container */
 .flashes {
   display: block;
